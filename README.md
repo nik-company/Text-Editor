@@ -1,10 +1,10 @@
 # Text-Editor
-Text Editor: простой и удобный текстовый редактор.
-Основные возможности:
-Создание и редактирование текста.Вы можете легко создавать и редактировать текстовые документы, будь то статья, отчёт, письмо или что-то ещё. Форматирование текста. Редактор позволяет изменять шрифт, размер, цвет и другие параметры текста, чтобы сделать его более читаемым и привлекательным.
-Сохранение и открытие документов.
-Вы можете сохранять свои документы в различных форматах и открывать ранее созданные файлы.
+Text Editor: a simple and user-friendly text editor.
+Main features:
+Creating and editing text.You can easily create and edit text documents, whether it's an article, report, letter, or something else. Text formatting. The editor allows you to change the font, size, color and other parameters of the text to make it more readable and attractive.
+Saving and opening documents.
+You can save your documents in various formats and open previously created files.
 
-[Для скачивания нажмите сюда](https://github.com/nik-company/Text-Editor/releases)
+[To download, click here](https://github.com/nik-company/Text-Editor/releases)
 
-[Поддержать автора](https://www.donationalerts.com/r/sutyagin_nikita)
+[Support the author](https://www.donationalerts.com/r/sutyagin_nikita)
